@@ -10,8 +10,7 @@ html {
 }
 
 body {
-    background-color: #000;
-    background: url('../img/Background1920x1080.png') no-repeat center center;
+    background: #000 url('../img/Background1920x1080.png') no-repeat center center;
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
