@@ -1,4 +1,4 @@
-YannickL.github.io
+yannickl.github.io
 ==================
 
 My personal github page
